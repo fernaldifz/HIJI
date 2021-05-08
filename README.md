@@ -1,5 +1,5 @@
 # HIJI
-Tubes OOP STI
+Tubes OOP STI\n
 Ketentuan permainan adalah sebagai berikut.
 1) HIJI dimainkan oleh 2-6 pemain.
 2) Di awal permainan, semua pemain akan mendapatkan 7 buah kartu, dan satu kartu angka
